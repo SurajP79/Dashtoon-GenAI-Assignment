@@ -1,8 +1,12 @@
 # Dashtoon-GenAI-Assignment
 
 ### How to run the notebook
-Download and open the notebook into the colab
+- Download and open the notebook into the colab
 
-Upload the images from dataset into the colab
+- Upload the images from dataset into the colab
 
-Run all the cell
+- Run all the cell
+
+### Notebook includes step of Neural Style Transfer as follows - 
+
+- 
